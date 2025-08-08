@@ -1,0 +1,44 @@
+2025-06-17 22:38:39,830 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 22:38:42,522 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-06-17 22:40:26,454 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-06-17 22:40:26,454 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 22:42:35,536 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 22:42:35,813 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-06-17 22:42:43,960 - __main__ - INFO - Пользователь Павел начал взаимодействие
+2025-06-17 22:42:44,275 - aiogram.event - INFO - Update id=258923103 is handled. Duration 311 ms by bot id=7992037979
+2025-06-17 22:43:32,184 - __main__ - INFO - Роль Павел: ЛПМ
+2025-06-17 22:43:32,594 - aiogram.event - INFO - Update id=258923104 is handled. Duration 406 ms by bot id=7992037979
+2025-06-17 22:43:44,357 - __main__ - INFO - Компания от Павел: СИБУВ
+2025-06-17 22:43:44,467 - aiogram.event - INFO - Update id=258923105 is handled. Duration 108 ms by bot id=7992037979
+2025-06-17 22:43:58,800 - __main__ - INFO - Фидбэк от Павел получен
+2025-06-17 22:44:01,787 - __main__ - INFO - Данные от Павел записаны в таблицу
+2025-06-17 22:44:02,065 - aiogram.event - INFO - Update id=258923106 is handled. Duration 3265 ms by bot id=7992037979
+2025-06-17 22:44:11,778 - aiogram.event - INFO - Update id=258923107 is not handled. Duration 16 ms by bot id=7992037979
+2025-06-17 22:44:23,323 - aiogram.event - INFO - Update id=258923108 is not handled. Duration 0 ms by bot id=7992037979
+2025-06-17 22:44:33,089 - aiogram.event - INFO - Update id=258923109 is not handled. Duration 0 ms by bot id=7992037979
+2025-06-17 22:46:01,502 - __main__ - ERROR - Ошибка при формировании статистики: 'role'
+2025-06-17 22:46:01,854 - aiogram.event - INFO - Update id=258923110 is handled. Duration 3171 ms by bot id=7992037979
+2025-06-17 22:54:25,971 - __main__ - INFO - Пользователь Павел начал взаимодействие
+2025-06-17 22:54:26,313 - aiogram.event - INFO - Update id=258923111 is handled. Duration 343 ms by bot id=7992037979
+2025-06-17 22:54:28,821 - __main__ - INFO - Роль Павел: ЛПМ
+2025-06-17 22:54:29,075 - aiogram.event - INFO - Update id=258923112 is handled. Duration 266 ms by bot id=7992037979
+2025-06-17 22:54:34,601 - __main__ - INFO - Компания от Павел: Тест
+2025-06-17 22:54:34,716 - aiogram.event - INFO - Update id=258923113 is handled. Duration 125 ms by bot id=7992037979
+2025-06-17 22:54:41,842 - __main__ - INFO - Фидбэк от Павел получен
+2025-06-17 22:54:44,264 - __main__ - INFO - Данные от Павел записаны в таблицу
+2025-06-17 22:54:44,392 - aiogram.event - INFO - Update id=258923114 is handled. Duration 2546 ms by bot id=7992037979
+2025-06-17 22:54:47,858 - aiogram.event - INFO - Update id=258923115 is not handled. Duration 0 ms by bot id=7992037979
+2025-06-17 22:54:58,425 - aiogram.event - INFO - Update id=258923116 is not handled. Duration 0 ms by bot id=7992037979
+2025-06-17 22:55:35,817 - __main__ - ERROR - Ошибка при формировании статистики: 'role'
+2025-06-17 22:55:36,154 - aiogram.event - INFO - Update id=258923117 is handled. Duration 2671 ms by bot id=7992037979
+2025-06-17 22:55:39,366 - __main__ - INFO - Пользователь Павел начал взаимодействие
+2025-06-17 22:55:39,466 - aiogram.event - INFO - Update id=258923118 is handled. Duration 108 ms by bot id=7992037979
+2025-06-17 22:55:41,167 - __main__ - INFO - Роль Павел: ЛПМ
+2025-06-17 22:55:41,269 - aiogram.event - INFO - Update id=258923119 is handled. Duration 108 ms by bot id=7992037979
+2025-06-17 22:55:45,579 - __main__ - INFO - Компания от Павел: Test
+2025-06-17 22:55:45,779 - aiogram.event - INFO - Update id=258923120 is handled. Duration 203 ms by bot id=7992037979
+2025-06-17 22:55:47,883 - __main__ - INFO - Фидбэк от Павел получен
+2025-06-17 22:55:50,774 - __main__ - INFO - Данные от Павел записаны в таблицу
+2025-06-17 22:55:50,872 - aiogram.event - INFO - Update id=258923121 is handled. Duration 3000 ms by bot id=7992037979
+2025-06-17 23:07:35,276 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-06-17 23:07:35,276 - aiogram.dispatcher - INFO - Polling stopped

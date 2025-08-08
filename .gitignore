@@ -1,0 +1,17 @@
+# Файлы окружения
+.env
+.env.local
+
+# Файлы с ключами
+config_secret.py
+keys.json
+credentials/
+
+# Питон
+__pycache__/
+*.py[cod]
+venv/
+.env/
+
+# Системные
+.DS_Store

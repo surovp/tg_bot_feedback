@@ -1,0 +1,1646 @@
+2025-07-13 21:44:51,862 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 21:44:52,189 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 21:45:35,581 - aiogram.event - INFO - Update id=258923123 is handled. Duration 453 ms by bot id=7992037979
+2025-07-13 21:47:37,781 - aiogram.event - INFO - Update id=258923124 is handled. Duration 327 ms by bot id=7992037979
+2025-07-13 21:47:44,308 - aiogram.event - INFO - Update id=258923125 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 21:48:03,882 - aiogram.event - INFO - Update id=258923126 is handled. Duration 234 ms by bot id=7992037979
+2025-07-13 21:48:08,661 - aiogram.event - INFO - Update id=258923127 is handled. Duration 156 ms by bot id=7992037979
+2025-07-13 21:48:23,721 - aiogram.event - INFO - Update id=258923128 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:48:33,865 - aiogram.event - INFO - Update id=258923129 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:48:39,080 - aiogram.event - INFO - Update id=258923130 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:48:48,440 - aiogram.event - INFO - Update id=258923131 is handled. Duration 250 ms by bot id=7992037979
+2025-07-13 21:48:50,755 - aiogram.event - INFO - Update id=258923132 is handled. Duration 155 ms by bot id=7992037979
+2025-07-13 21:48:52,553 - aiogram.event - INFO - Update id=258923133 is handled. Duration 156 ms by bot id=7992037979
+2025-07-13 21:48:57,073 - aiogram.event - INFO - Update id=258923134 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 21:48:59,434 - aiogram.event - INFO - Update id=258923135 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:49:04,651 - aiogram.event - INFO - Update id=258923136 is handled. Duration 186 ms by bot id=7992037979
+2025-07-13 21:49:06,253 - __main__ - ERROR - Ошибка при сохранении в Google Sheets: <Response [404]>
+2025-07-13 21:49:06,523 - aiogram.event - INFO - Update id=258923137 is handled. Duration 843 ms by bot id=7992037979
+2025-07-13 21:49:34,170 - aiogram.event - INFO - Update id=258923138 is handled. Duration 265 ms by bot id=7992037979
+2025-07-13 21:49:44,924 - aiogram.event - INFO - Update id=258923139 is handled. Duration 109 ms by bot id=7992037979
+2025-07-13 21:49:47,324 - aiogram.event - INFO - Update id=258923140 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:49:50,128 - aiogram.event - INFO - Update id=258923141 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:49:52,499 - aiogram.event - INFO - Update id=258923142 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:49:54,009 - aiogram.event - INFO - Update id=258923143 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:49:55,652 - __main__ - ERROR - Ошибка при сохранении в Google Sheets: <Response [404]>
+2025-07-13 21:49:56,058 - aiogram.event - INFO - Update id=258923144 is handled. Duration 1015 ms by bot id=7992037979
+2025-07-13 21:50:39,971 - aiogram.event - INFO - Update id=258923145 is handled. Duration 344 ms by bot id=7992037979
+2025-07-13 21:50:48,350 - aiogram.event - INFO - Update id=258923146 is handled. Duration 203 ms by bot id=7992037979
+2025-07-13 21:50:49,718 - aiogram.event - INFO - Update id=258923147 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:51:06,872 - aiogram.event - INFO - Update id=258923148 is handled. Duration 234 ms by bot id=7992037979
+2025-07-13 21:51:13,344 - aiogram.event - INFO - Update id=258923149 is handled. Duration 109 ms by bot id=7992037979
+2025-07-13 21:51:14,585 - aiogram.event - INFO - Update id=258923150 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 21:51:15,929 - __main__ - ERROR - Ошибка при сохранении в Google Sheets: <Response [404]>
+2025-07-13 21:51:16,204 - aiogram.event - INFO - Update id=258923151 is handled. Duration 813 ms by bot id=7992037979
+2025-07-13 21:52:48,548 - aiogram.event - INFO - Update id=258923152 is handled. Duration 234 ms by bot id=7992037979
+2025-07-13 21:52:50,444 - aiogram.event - INFO - Update id=258923153 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 21:52:56,281 - aiogram.event - INFO - Update id=258923154 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 21:53:01,360 - aiogram.event - INFO - Update id=258923155 is handled. Duration 1327 ms by bot id=7992037979
+2025-07-13 21:53:03,920 - aiogram.event - INFO - Update id=258923156 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:53:05,493 - __main__ - ERROR - Ошибка при сохранении в Google Sheets: <Response [404]>
+2025-07-13 21:53:05,795 - aiogram.event - INFO - Update id=258923157 is handled. Duration 890 ms by bot id=7992037979
+2025-07-13 21:53:10,909 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-13 21:53:10,910 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 21:53:12,959 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 21:53:13,168 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 21:53:24,506 - aiogram.event - INFO - Update id=258923158 is handled. Duration 327 ms by bot id=7992037979
+2025-07-13 21:53:36,164 - aiogram.event - INFO - Update id=258923159 is handled. Duration 109 ms by bot id=7992037979
+2025-07-13 21:54:05,997 - aiogram.event - INFO - Update id=258923160 is handled. Duration 234 ms by bot id=7992037979
+2025-07-13 21:54:12,733 - aiogram.event - INFO - Update id=258923161 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 21:54:18,027 - aiogram.event - INFO - Update id=258923162 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:54:19,378 - aiogram.event - INFO - Update id=258923163 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:54:21,965 - aiogram.event - INFO - Update id=258923164 is handled. Duration 1625 ms by bot id=7992037979
+2025-07-13 21:56:02,814 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-13 21:56:02,814 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 21:56:30,634 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 21:56:30,847 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 21:56:58,515 - aiogram.event - INFO - Update id=258923165 is handled. Duration 311 ms by bot id=7992037979
+2025-07-13 21:57:06,907 - aiogram.event - INFO - Update id=258923166 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 21:57:09,194 - aiogram.event - INFO - Update id=258923167 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:57:20,849 - aiogram.event - INFO - Update id=258923168 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 21:57:22,902 - aiogram.event - INFO - Update id=258923169 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:57:29,923 - aiogram.event - INFO - Update id=258923170 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:57:33,487 - aiogram.event - INFO - Update id=258923171 is handled. Duration 172 ms by bot id=7992037979
+2025-07-13 21:57:35,076 - aiogram.event - INFO - Update id=258923172 is not handled. Duration 16 ms by bot id=7992037979
+2025-07-13 21:57:48,433 - aiogram.event - INFO - Update id=258923173 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:57:52,917 - aiogram.event - INFO - Update id=258923174 is handled. Duration 219 ms by bot id=7992037979
+2025-07-13 21:57:54,261 - aiogram.event - INFO - Update id=258923175 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:57:57,113 - aiogram.event - INFO - Update id=258923176 is handled. Duration 109 ms by bot id=7992037979
+2025-07-13 21:58:00,574 - aiogram.event - INFO - Update id=258923177 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:58:05,113 - aiogram.event - INFO - Update id=258923178 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:58:07,720 - aiogram.event - INFO - Update id=258923179 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:58:09,420 - aiogram.event - INFO - Update id=258923180 is handled. Duration 172 ms by bot id=7992037979
+2025-07-13 21:58:11,055 - aiogram.event - INFO - Update id=258923181 is handled. Duration 234 ms by bot id=7992037979
+2025-07-13 21:58:15,693 - aiogram.event - INFO - Update id=258923182 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 21:58:18,813 - aiogram.event - INFO - Update id=258923183 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 21:58:20,289 - aiogram.event - INFO - Update id=258923184 is handled. Duration 77 ms by bot id=7992037979
+2025-07-13 21:58:23,384 - aiogram.event - INFO - Update id=258923185 is handled. Duration 93 ms by bot id=7992037979
+2025-07-13 21:58:42,856 - aiogram.event - INFO - Update id=258923186 is handled. Duration 265 ms by bot id=7992037979
+2025-07-13 21:58:45,407 - aiogram.event - INFO - Update id=258923187 is handled. Duration 1625 ms by bot id=7992037979
+2025-07-13 22:05:57,861 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-13 22:05:57,862 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:07:10,018 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 22:07:10,239 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:07:26,994 - aiogram.event - INFO - Update id=258923188 is handled. Duration 438 ms by bot id=7992037979
+2025-07-13 22:07:35,752 - aiogram.event - INFO - Update id=258923189 is handled. Duration 92 ms by bot id=7992037979
+2025-07-13 22:07:37,423 - aiogram.event - INFO - Update id=258923190 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 22:07:45,961 - aiogram.event - INFO - Update id=258923191 is handled. Duration 141 ms by bot id=7992037979
+2025-07-13 22:07:49,747 - aiogram.event - INFO - Update id=258923192 is handled. Duration 170 ms by bot id=7992037979
+2025-07-13 22:08:02,846 - aiogram.event - INFO - Update id=258923193 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 22:08:06,224 - aiogram.event - INFO - Update id=258923194 is handled. Duration 264 ms by bot id=7992037979
+2025-07-13 22:08:08,169 - aiogram.event - INFO - Update id=258923195 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:08:09,620 - aiogram.event - INFO - Update id=258923196 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 22:08:14,524 - aiogram.event - INFO - Update id=258923197 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:08:17,629 - aiogram.event - INFO - Update id=258923198 is handled. Duration 92 ms by bot id=7992037979
+2025-07-13 22:08:20,103 - aiogram.event - INFO - Update id=258923199 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:08:24,328 - aiogram.event - INFO - Update id=258923200 is handled. Duration 110 ms by bot id=7992037979
+2025-07-13 22:08:25,226 - aiogram.event - INFO - Update id=258923201 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:08:31,458 - aiogram.event - INFO - Update id=258923202 is handled. Duration 110 ms by bot id=7992037979
+2025-07-13 22:08:35,863 - aiogram.event - INFO - Update id=258923203 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:08:37,255 - aiogram.event - INFO - Update id=258923204 is handled. Duration 139 ms by bot id=7992037979
+2025-07-13 22:08:38,205 - aiogram.event - INFO - Update id=258923205 is handled. Duration 172 ms by bot id=7992037979
+2025-07-13 22:08:39,720 - aiogram.event - INFO - Update id=258923206 is handled. Duration 233 ms by bot id=7992037979
+2025-07-13 22:08:43,946 - aiogram.event - INFO - Update id=258923207 is handled. Duration 77 ms by bot id=7992037979
+2025-07-13 22:08:50,580 - aiogram.event - INFO - Update id=258923208 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:08:52,757 - aiogram.event - INFO - Update id=258923209 is handled. Duration 92 ms by bot id=7992037979
+2025-07-13 22:08:55,073 - aiogram.event - INFO - Update id=258923210 is handled. Duration 1608 ms by bot id=7992037979
+2025-07-13 22:15:22,504 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:15:22,505 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-13 22:16:01,453 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 22:16:01,665 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:16:10,448 - aiogram.event - INFO - Update id=258923211 is handled. Duration 327 ms by bot id=7992037979
+2025-07-13 22:16:46,351 - aiogram.event - INFO - Update id=258923212 is handled. Duration 233 ms by bot id=7992037979
+2025-07-13 22:16:47,843 - aiogram.event - INFO - Update id=258923213 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:16:56,457 - aiogram.event - INFO - Update id=258923214 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 22:16:59,959 - aiogram.event - INFO - Update id=258923215 is handled. Duration 110 ms by bot id=7992037979
+2025-07-13 22:17:15,669 - aiogram.event - INFO - Update id=258923216 is handled. Duration 233 ms by bot id=7992037979
+2025-07-13 22:17:17,381 - aiogram.event - INFO - Update id=258923217 is handled. Duration 92 ms by bot id=7992037979
+2025-07-13 22:17:22,252 - aiogram.event - INFO - Update id=258923218 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:17:31,540 - aiogram.event - INFO - Update id=258923219 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 22:17:39,329 - aiogram.event - INFO - Update id=258923220 is handled. Duration 110 ms by bot id=7992037979
+2025-07-13 22:17:54,767 - aiogram.event - INFO - Update id=258923221 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-13 22:18:02,779 - aiogram.event - INFO - Update id=258923222 is handled. Duration 250 ms by bot id=7992037979
+2025-07-13 22:27:42,893 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-13 22:27:42,894 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:35:43,153 - aiogram.dispatcher - INFO - Start polling
+2025-07-13 22:35:43,366 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:35:51,936 - aiogram.event - INFO - Update id=258923223 is handled. Duration 438 ms by bot id=7992037979
+2025-07-13 22:36:00,811 - aiogram.event - INFO - Update id=258923224 is handled. Duration 125 ms by bot id=7992037979
+2025-07-13 22:36:07,015 - aiogram.event - INFO - Update id=258923225 is handled. Duration 719 ms by bot id=7992037979
+2025-07-13 22:36:12,696 - aiogram.event - INFO - Update id=258923226 is handled. Duration 77 ms by bot id=7992037979
+2025-07-13 22:36:15,691 - aiogram.event - INFO - Update id=258923227 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:17,472 - aiogram.event - INFO - Update id=258923228 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:25,840 - aiogram.event - INFO - Update id=258923229 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:31,292 - aiogram.event - INFO - Update id=258923230 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:33,092 - aiogram.event - INFO - Update id=258923231 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:38,618 - aiogram.event - INFO - Update id=258923232 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:43,816 - aiogram.event - INFO - Update id=258923233 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:36:45,938 - aiogram.event - INFO - Update id=258923234 is handled. Duration 188 ms by bot id=7992037979
+2025-07-13 22:36:53,520 - aiogram.event - INFO - Update id=258923235 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:37:07,633 - aiogram.event - INFO - Update id=258923236 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:37:12,016 - aiogram.event - INFO - Update id=258923237 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:37:15,586 - aiogram.event - INFO - Update id=258923238 is handled. Duration 1875 ms by bot id=7992037979
+2025-07-13 22:38:00,821 - aiogram.event - INFO - Update id=258923239 is handled. Duration 233 ms by bot id=7992037979
+2025-07-13 22:38:02,509 - aiogram.event - INFO - Update id=258923240 is handled. Duration 92 ms by bot id=7992037979
+2025-07-13 22:38:11,202 - aiogram.event - INFO - Update id=258923241 is handled. Duration 157 ms by bot id=7992037979
+2025-07-13 22:40:48,223 - aiogram.event - INFO - Update id=258923242 is handled. Duration 344 ms by bot id=7992037979
+2025-07-13 22:40:53,911 - aiogram.event - INFO - Update id=258923243 is handled. Duration 188 ms by bot id=7992037979
+2025-07-13 22:40:58,114 - aiogram.event - INFO - Update id=258923244 is handled. Duration 171 ms by bot id=7992037979
+2025-07-13 22:41:12,831 - aiogram.event - INFO - Update id=258923245 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:41:15,215 - aiogram.event - INFO - Update id=258923246 is handled. Duration 109 ms by bot id=7992037979
+2025-07-13 22:41:19,439 - aiogram.event - INFO - Update id=258923247 is handled. Duration 172 ms by bot id=7992037979
+2025-07-13 22:42:16,506 - aiogram.event - INFO - Update id=258923248 is handled. Duration 328 ms by bot id=7992037979
+2025-07-13 22:42:18,653 - aiogram.event - INFO - Update id=258923249 is handled. Duration 141 ms by bot id=7992037979
+2025-07-13 22:42:21,358 - aiogram.event - INFO - Update id=258923250 is handled. Duration 188 ms by bot id=7992037979
+2025-07-13 22:42:35,722 - aiogram.event - INFO - Update id=258923251 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:42:37,514 - aiogram.event - INFO - Update id=258923252 is handled. Duration 186 ms by bot id=7992037979
+2025-07-13 22:42:39,052 - aiogram.event - INFO - Update id=258923253 is handled. Duration 108 ms by bot id=7992037979
+2025-07-13 22:42:52,542 - aiogram.event - INFO - Update id=258923254 is handled. Duration 203 ms by bot id=7992037979
+2025-07-13 22:42:54,327 - aiogram.event - INFO - Update id=258923255 is handled. Duration 94 ms by bot id=7992037979
+2025-07-13 22:42:57,034 - aiogram.event - INFO - Update id=258923256 is handled. Duration 1766 ms by bot id=7992037979
+2025-07-13 22:43:51,273 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-13 22:43:51,274 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-14 09:09:16,058 - aiogram.dispatcher - INFO - Start polling
+2025-07-14 09:09:16,310 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-14 09:09:16,691 - aiogram.event - INFO - Update id=258923257 is handled. Duration 312 ms by bot id=7992037979
+2025-07-14 09:09:39,026 - aiogram.event - INFO - Update id=258923258 is handled. Duration 203 ms by bot id=7992037979
+2025-07-14 09:09:47,399 - aiogram.event - INFO - Update id=258923259 is handled. Duration 125 ms by bot id=7992037979
+2025-07-14 09:09:54,850 - aiogram.event - INFO - Update id=258923260 is handled. Duration 78 ms by bot id=7992037979
+2025-07-14 09:09:57,594 - aiogram.event - INFO - Update id=258923261 is handled. Duration 93 ms by bot id=7992037979
+2025-07-14 09:10:02,337 - aiogram.event - INFO - Update id=258923262 is handled. Duration 78 ms by bot id=7992037979
+2025-07-14 09:10:06,890 - aiogram.event - INFO - Update id=258923263 is handled. Duration 93 ms by bot id=7992037979
+2025-07-14 09:10:11,350 - aiogram.event - INFO - Update id=258923264 is handled. Duration 77 ms by bot id=7992037979
+2025-07-14 09:10:12,995 - aiogram.event - INFO - Update id=258923265 is handled. Duration 78 ms by bot id=7992037979
+2025-07-14 09:10:32,271 - aiogram.event - INFO - Update id=258923266 is handled. Duration 219 ms by bot id=7992037979
+2025-07-14 09:10:35,502 - aiogram.event - INFO - Update id=258923267 is handled. Duration 92 ms by bot id=7992037979
+2025-07-14 09:10:56,572 - aiogram.event - INFO - Update id=258923268 is handled. Duration 219 ms by bot id=7992037979
+2025-07-14 09:11:08,002 - aiogram.event - INFO - Update id=258923269 is handled. Duration 92 ms by bot id=7992037979
+2025-07-14 09:12:05,811 - aiogram.event - INFO - Update id=258923270 is handled. Duration 234 ms by bot id=7992037979
+2025-07-14 09:12:10,232 - aiogram.event - INFO - Update id=258923271 is handled. Duration 110 ms by bot id=7992037979
+2025-07-14 09:12:16,307 - aiogram.event - INFO - Update id=258923272 is handled. Duration 3828 ms by bot id=7992037979
+2025-07-14 10:26:19,388 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-14 10:26:19,388 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-14 15:00:16,555 - aiogram.dispatcher - INFO - Start polling
+2025-07-14 15:00:16,780 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-14 15:02:52,719 - aiogram.event - INFO - Update id=258923273 is handled. Duration 530 ms by bot id=7992037979
+2025-07-14 15:03:23,086 - aiogram.event - INFO - Update id=258923274 is handled. Duration 235 ms by bot id=7992037979
+2025-07-14 15:03:33,419 - aiogram.event - INFO - Update id=258923275 is handled. Duration 139 ms by bot id=7992037979
+2025-07-14 15:03:44,831 - aiogram.event - INFO - Update id=258923276 is handled. Duration 171 ms by bot id=7992037979
+2025-07-14 15:03:50,320 - aiogram.event - INFO - Update id=258923277 is handled. Duration 94 ms by bot id=7992037979
+2025-07-14 15:03:59,308 - aiogram.event - INFO - Update id=258923278 is handled. Duration 93 ms by bot id=7992037979
+2025-07-14 15:04:04,239 - aiogram.event - INFO - Update id=258923279 is handled. Duration 110 ms by bot id=7992037979
+2025-07-14 15:04:10,899 - aiogram.event - INFO - Update id=258923280 is handled. Duration 94 ms by bot id=7992037979
+2025-07-14 15:04:16,089 - aiogram.event - INFO - Update id=258923281 is handled. Duration 110 ms by bot id=7992037979
+2025-07-14 15:04:27,246 - aiogram.event - INFO - Update id=258923282 is handled. Duration 187 ms by bot id=7992037979
+2025-07-14 15:04:34,024 - aiogram.event - INFO - Update id=258923283 is handled. Duration 94 ms by bot id=7992037979
+2025-07-14 15:04:39,604 - aiogram.event - INFO - Update id=258923284 is handled. Duration 219 ms by bot id=7992037979
+2025-07-14 15:05:20,520 - aiogram.event - INFO - Update id=258923285 is handled. Duration 250 ms by bot id=7992037979
+2025-07-14 15:05:43,030 - aiogram.event - INFO - Update id=258923286 is handled. Duration 235 ms by bot id=7992037979
+2025-07-14 15:05:47,350 - aiogram.event - INFO - Update id=258923287 is handled. Duration 139 ms by bot id=7992037979
+2025-07-14 15:06:27,078 - aiogram.event - INFO - Update id=258923288 is handled. Duration 329 ms by bot id=7992037979
+2025-07-14 15:06:37,318 - aiogram.event - INFO - Update id=258923289 is handled. Duration 109 ms by bot id=7992037979
+2025-07-14 15:06:41,766 - aiogram.event - INFO - Update id=258923290 is handled. Duration 125 ms by bot id=7992037979
+2025-07-14 15:06:48,505 - aiogram.event - INFO - Update id=258923291 is handled. Duration 3014 ms by bot id=7992037979
+2025-07-14 15:08:52,573 - aiogram.event - INFO - Update id=258923292 is handled. Duration 250 ms by bot id=7992037979
+2025-07-14 15:08:56,350 - aiogram.event - INFO - Update id=258923293 is handled. Duration 109 ms by bot id=7992037979
+2025-07-14 15:09:06,568 - aiogram.event - INFO - Update id=258923294 is handled. Duration 140 ms by bot id=7992037979
+2025-07-14 15:09:10,918 - aiogram.event - INFO - Update id=258923295 is handled. Duration 110 ms by bot id=7992037979
+2025-07-14 15:09:15,150 - aiogram.event - INFO - Update id=258923296 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-14 15:09:17,264 - aiogram.event - INFO - Update id=258923297 is handled. Duration 94 ms by bot id=7992037979
+2025-07-14 15:09:22,688 - aiogram.event - INFO - Update id=258923298 is handled. Duration 3546 ms by bot id=7992037979
+2025-07-14 15:12:09,066 - aiogram.event - INFO - Update id=258923299 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-14 15:12:29,833 - aiogram.event - INFO - Update id=258923300 is handled. Duration 250 ms by bot id=7992037979
+2025-07-14 15:12:45,529 - aiogram.event - INFO - Update id=258923301 is handled. Duration 344 ms by bot id=7992037979
+2025-07-14 15:17:59,703 - aiogram.event - INFO - Update id=258923302 is handled. Duration 329 ms by bot id=7992037979
+2025-07-14 15:19:02,758 - aiogram.event - INFO - Update id=258923303 is handled. Duration 217 ms by bot id=7992037979
+2025-07-14 15:23:53,786 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-14 15:23:53,786 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:16:35,602 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:16:35,839 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:16:39,213 - aiogram.event - INFO - Update id=258923305 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 19:16:50,269 - aiogram.event - INFO - Update id=258923306 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:16:53,450 - aiogram.event - INFO - Update id=258923307 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:17:03,490 - aiogram.event - INFO - Update id=258923308 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 19:17:09,142 - aiogram.event - INFO - Update id=258923309 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:17:11,898 - aiogram.event - INFO - Update id=258923310 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 19:17:13,643 - aiogram.event - INFO - Update id=258923311 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:34:43,588 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:34:43,589 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:36:40,153 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:36:40,366 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:36:51,311 - aiogram.event - INFO - Update id=258923312 is handled. Duration 437 ms by bot id=7992037979
+2025-07-19 19:36:59,789 - aiogram.event - INFO - Update id=258923313 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:37:01,407 - aiogram.event - INFO - Update id=258923314 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 19:37:07,489 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:37:07,490 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:37:16,450 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:37:16,657 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:37:27,688 - aiogram.event - INFO - Update id=258923315 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 19:37:31,545 - aiogram.event - INFO - Update id=258923316 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 19:37:33,962 - aiogram.event - INFO - Update id=258923317 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:37:41,716 - aiogram.event - INFO - Update id=258923318 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 19:38:01,319 - aiogram.event - INFO - Update id=258923319 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 19:38:03,876 - aiogram.event - INFO - Update id=258923320 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 19:38:12,395 - aiogram.event - INFO - Update id=258923321 is handled. Duration 358 ms by bot id=7992037979
+2025-07-19 19:38:19,904 - aiogram.event - INFO - Update id=258923322 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 19:38:21,549 - aiogram.event - INFO - Update id=258923323 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 19:38:25,552 - aiogram.event - INFO - Update id=258923324 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 19:38:29,482 - aiogram.event - INFO - Update id=258923325 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 19:38:41,506 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:38:41,506 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:39:41,079 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:39:41,291 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:39:41,677 - aiogram.event - INFO - Update id=258923326 is handled. Duration 311 ms by bot id=7992037979
+2025-07-19 19:39:44,066 - aiogram.event - INFO - Update id=258923327 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:39:49,711 - aiogram.event - INFO - Update id=258923328 is handled. Duration 79 ms by bot id=7992037979
+2025-07-19 19:39:51,503 - aiogram.event - INFO - Update id=258923329 is handled. Duration 92 ms by bot id=7992037979
+2025-07-19 19:39:53,456 - aiogram.event - INFO - Update id=258923330 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:40:39,303 - aiogram.event - INFO - Update id=258923331 is handled. Duration 375 ms by bot id=7992037979
+2025-07-19 19:40:42,743 - aiogram.event - INFO - Update id=258923332 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 19:40:45,279 - aiogram.event - INFO - Update id=258923333 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:42:44,168 - aiogram.event - INFO - Update id=258923334 is handled. Duration 266 ms by bot id=7992037979
+2025-07-19 19:45:57,328 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:45:57,329 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:45:59,062 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:45:59,276 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:46:03,907 - aiogram.event - INFO - Update id=258923335 is handled. Duration 407 ms by bot id=7992037979
+2025-07-19 19:46:08,917 - aiogram.event - INFO - Update id=258923336 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 19:46:13,471 - aiogram.event - INFO - Update id=258923337 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 19:46:15,411 - aiogram.event - INFO - Update id=258923338 is handled. Duration 235 ms by bot id=7992037979
+2025-07-19 19:46:17,259 - aiogram.event - INFO - Update id=258923339 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 19:46:18,679 - aiogram.event - INFO - Update id=258923340 is handled. Duration 92 ms by bot id=7992037979
+2025-07-19 19:46:38,533 - aiogram.event - INFO - Update id=258923341 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 19:46:44,241 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:46:44,241 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:48:28,270 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:48:28,481 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:48:33,926 - aiogram.event - INFO - Update id=258923342 is handled. Duration 342 ms by bot id=7992037979
+2025-07-19 19:48:35,832 - aiogram.event - INFO - Update id=258923343 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:48:38,236 - aiogram.event - INFO - Update id=258923344 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 19:48:39,648 - aiogram.event - INFO - Update id=258923345 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 19:48:41,095 - aiogram.event - INFO - Update id=258923346 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:48:42,478 - aiogram.event - INFO - Update id=258923347 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:48:44,851 - aiogram.event - INFO - Update id=258923348 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:48:55,566 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:48:55,566 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:49:21,373 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:49:21,583 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:49:26,280 - aiogram.event - INFO - Update id=258923349 is handled. Duration 344 ms by bot id=7992037979
+2025-07-19 19:49:27,579 - aiogram.event - INFO - Update id=258923350 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 19:49:29,714 - aiogram.event - INFO - Update id=258923351 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:49:31,104 - aiogram.event - INFO - Update id=258923352 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:49:33,168 - aiogram.event - INFO - Update id=258923353 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:49:34,631 - aiogram.event - INFO - Update id=258923354 is handled. Duration 139 ms by bot id=7992037979
+2025-07-19 19:49:35,762 - aiogram.event - INFO - Update id=258923355 is handled. Duration 297 ms by bot id=7992037979
+2025-07-19 19:58:39,654 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 19:58:39,655 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:58:41,713 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 19:58:41,924 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:58:52,761 - aiogram.event - INFO - Update id=258923356 is handled. Duration 389 ms by bot id=7992037979
+2025-07-19 19:58:54,349 - aiogram.event - INFO - Update id=258923357 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:58:56,047 - aiogram.event - INFO - Update id=258923358 is handled. Duration 172 ms by bot id=7992037979
+2025-07-19 19:58:58,265 - aiogram.event - INFO - Update id=258923359 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:01,201 - aiogram.event - INFO - Update id=258923360 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:05,363 - aiogram.event - INFO - Update id=258923361 is handled. Duration 188 ms by bot id=7992037979
+2025-07-19 19:59:07,095 - aiogram.event - INFO - Update id=258923362 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:09,969 - aiogram.event - INFO - Update id=258923363 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:12,481 - aiogram.event - INFO - Update id=258923364 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:13,982 - aiogram.event - INFO - Update id=258923365 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 19:59:25,790 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 19:59:25,790 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:06:38,148 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:06:38,355 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:06:44,273 - aiogram.event - INFO - Update id=258923366 is handled. Duration 311 ms by bot id=7992037979
+2025-07-19 20:06:46,451 - aiogram.event - INFO - Update id=258923367 is handled. Duration 157 ms by bot id=7992037979
+2025-07-19 20:06:47,812 - aiogram.event - INFO - Update id=258923368 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:06:49,561 - aiogram.event - INFO - Update id=258923369 is handled. Duration 188 ms by bot id=7992037979
+2025-07-19 20:06:50,647 - aiogram.event - INFO - Update id=258923370 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 20:06:52,201 - aiogram.event - INFO - Update id=258923371 is handled. Duration 157 ms by bot id=7992037979
+2025-07-19 20:06:54,553 - aiogram.event - INFO - Update id=258923372 is handled. Duration 155 ms by bot id=7992037979
+2025-07-19 20:06:57,661 - aiogram.event - INFO - Update id=258923373 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 20:06:59,481 - aiogram.event - INFO - Update id=258923374 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 20:07:01,898 - aiogram.event - INFO - Update id=258923375 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:07:04,530 - aiogram.event - INFO - Update id=258923376 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:07:07,959 - aiogram.event - INFO - Update id=258923377 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:07:09,454 - aiogram.event - INFO - Update id=258923378 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:07:13,300 - aiogram.event - INFO - Update id=258923379 is handled. Duration 172 ms by bot id=7992037979
+2025-07-19 20:07:17,339 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:07:17,339 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:13:27,920 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:13:28,147 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:14:32,456 - aiogram.event - INFO - Update id=258923380 is handled. Duration 438 ms by bot id=7992037979
+2025-07-19 20:14:41,101 - aiogram.event - INFO - Update id=258923381 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 20:15:06,659 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:15:06,659 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:15:26,698 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:15:26,904 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:15:27,286 - aiogram.event - INFO - Update id=258923382 is handled. Duration 313 ms by bot id=7992037979
+2025-07-19 20:15:33,021 - aiogram.event - INFO - Update id=258923383 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:15:37,921 - aiogram.event - INFO - Update id=258923384 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 20:15:43,991 - aiogram.event - INFO - Update id=258923385 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:15:47,204 - aiogram.event - INFO - Update id=258923386 is handled. Duration 140 ms by bot id=7992037979
+2025-07-19 20:15:49,341 - aiogram.event - INFO - Update id=258923387 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:15:52,862 - aiogram.event - INFO - Update id=258923388 is handled. Duration 2094 ms by bot id=7992037979
+2025-07-19 20:17:59,856 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:17:59,856 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:18:09,490 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:18:09,693 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:20:26,004 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:20:26,004 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:20:27,778 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:20:27,984 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:20:32,604 - aiogram.event - INFO - Update id=258923389 is handled. Duration 375 ms by bot id=7992037979
+2025-07-19 20:20:42,887 - aiogram.event - INFO - Update id=258923390 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:20:45,658 - aiogram.event - INFO - Update id=258923391 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 20:20:47,653 - aiogram.event - INFO - Update id=258923392 is handled. Duration 171 ms by bot id=7992037979
+2025-07-19 20:20:49,110 - aiogram.event - INFO - Update id=258923393 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 20:20:50,506 - aiogram.event - INFO - Update id=258923394 is handled. Duration 203 ms by bot id=7992037979
+2025-07-19 20:20:52,738 - aiogram.event - INFO - Update id=258923395 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:20:55,778 - aiogram.event - INFO - Update id=258923396 is handled. Duration 2422 ms by bot id=7992037979
+2025-07-19 20:32:19,167 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:32:19,167 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 20:35:25,140 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 20:35:25,355 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:35:30,451 - aiogram.event - INFO - Update id=258923397 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 20:35:36,673 - aiogram.event - INFO - Update id=258923398 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 20:35:37,941 - aiogram.event - INFO - Update id=258923399 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:35:46,197 - aiogram.event - INFO - Update id=258923400 is handled. Duration 78 ms by bot id=7992037979
+2025-07-19 20:35:48,163 - aiogram.event - INFO - Update id=258923401 is handled. Duration 157 ms by bot id=7992037979
+2025-07-19 20:35:52,100 - aiogram.event - INFO - Update id=258923402 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 20:35:53,475 - aiogram.event - INFO - Update id=258923403 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:35:55,073 - aiogram.event - INFO - Update id=258923404 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:35:56,386 - aiogram.event - INFO - Update id=258923405 is handled. Duration 78 ms by bot id=7992037979
+2025-07-19 20:36:00,213 - aiogram.event - INFO - Update id=258923406 is handled. Duration 2032 ms by bot id=7992037979
+2025-07-19 20:36:04,604 - aiogram.event - INFO - Update id=258923407 is handled. Duration 78 ms by bot id=7992037979
+2025-07-19 20:36:06,900 - aiogram.event - INFO - Update id=258923408 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 20:36:14,909 - aiogram.event - INFO - Update id=258923409 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 20:36:17,181 - aiogram.event - INFO - Update id=258923410 is handled. Duration 92 ms by bot id=7992037979
+2025-07-19 20:36:20,456 - aiogram.event - INFO - Update id=258923411 is handled. Duration 1907 ms by bot id=7992037979
+2025-07-19 20:38:04,481 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 20:38:04,481 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 21:50:26,129 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 21:50:26,201 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:51:29,295 - aiogram.event - INFO - Update id=258923412 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 21:51:29,295 - aiogram.event - ERROR - Cause exception while process update id=258923412 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:51:59,576 - aiogram.event - INFO - Update id=258923413 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:52:12,037 - aiogram.event - INFO - Update id=258923414 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:52:12,037 - aiogram.event - ERROR - Cause exception while process update id=258923414 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:52:17,329 - aiogram.event - INFO - Update id=258923415 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:52:17,329 - aiogram.event - ERROR - Cause exception while process update id=258923415 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:52:18,146 - aiogram.event - INFO - Update id=258923416 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:52:18,146 - aiogram.event - ERROR - Cause exception while process update id=258923416 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:53:12,745 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 21:53:12,746 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:53:28,576 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 21:53:28,648 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:53:31,026 - aiogram.event - INFO - Update id=258923417 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:53:31,027 - aiogram.event - ERROR - Cause exception while process update id=258923417 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:53:32,480 - aiogram.event - INFO - Update id=258923418 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:53:32,480 - aiogram.event - ERROR - Cause exception while process update id=258923418 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:53:54,459 - aiogram.event - INFO - Update id=258923419 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:53:54,460 - aiogram.event - ERROR - Cause exception while process update id=258923419 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:54:15,518 - aiogram.event - INFO - Update id=258923420 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:54:15,518 - aiogram.event - ERROR - Cause exception while process update id=258923420 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:55:13,141 - aiogram.event - INFO - Update id=258923421 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:55:13,141 - aiogram.event - ERROR - Cause exception while process update id=258923421 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:56:32,805 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 21:56:32,806 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:58:09,261 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 21:58:09,330 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:58:16,411 - aiogram.event - INFO - Update id=258923422 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:58:16,411 - aiogram.event - ERROR - Cause exception while process update id=258923422 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:58:29,961 - aiogram.event - INFO - Update id=258923423 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:58:29,961 - aiogram.event - ERROR - Cause exception while process update id=258923423 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:59:01,095 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 21:59:01,095 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:59:03,101 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 21:59:03,171 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:59:07,708 - aiogram.event - INFO - Update id=258923424 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 21:59:07,708 - aiogram.event - ERROR - Cause exception while process update id=258923424 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 21:59:21,949 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 21:59:21,949 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:59:24,169 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 21:59:24,379 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 21:59:27,575 - aiogram.event - INFO - Update id=258923425 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 21:59:27,576 - aiogram.event - ERROR - Cause exception while process update id=258923425 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:00:27,931 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:00:27,931 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:00:29,928 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:00:30,135 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:00:34,656 - aiogram.event - INFO - Update id=258923426 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:00:34,656 - aiogram.event - ERROR - Cause exception while process update id=258923426 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:01:22,075 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:01:22,076 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:01:23,655 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:01:23,865 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:01:26,616 - aiogram.event - INFO - Update id=258923427 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:01:26,616 - aiogram.event - ERROR - Cause exception while process update id=258923427 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:01:38,528 - aiogram.event - INFO - Update id=258923428 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:01:38,528 - aiogram.event - ERROR - Cause exception while process update id=258923428 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:01:48,256 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:01:48,256 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:02:34,995 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:02:35,203 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:02:45,226 - aiogram.event - INFO - Update id=258923429 is handled. Duration 405 ms by bot id=7992037979
+2025-07-19 22:03:00,200 - aiogram.event - INFO - Update id=258923430 is handled. Duration 203 ms by bot id=7992037979
+2025-07-19 22:03:08,996 - aiogram.event - INFO - Update id=258923431 is handled. Duration 156 ms by bot id=7992037979
+2025-07-19 22:03:15,317 - aiogram.event - INFO - Update id=258923432 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 22:03:24,530 - aiogram.event - INFO - Update id=258923433 is handled. Duration 171 ms by bot id=7992037979
+2025-07-19 22:03:28,926 - aiogram.event - INFO - Update id=258923434 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 22:03:31,853 - aiogram.event - INFO - Update id=258923435 is handled. Duration 155 ms by bot id=7992037979
+2025-07-19 22:03:35,644 - aiogram.event - INFO - Update id=258923436 is handled. Duration 2250 ms by bot id=7992037979
+2025-07-19 22:03:48,064 - aiogram.event - INFO - Update id=258923437 is handled. Duration 140 ms by bot id=7992037979
+2025-07-19 22:06:40,574 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:06:40,574 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:14:24,594 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:14:24,804 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:14:36,922 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:14:36,923 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:14:39,257 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:14:39,472 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:14:43,825 - aiogram.event - INFO - Update id=258923438 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 22:14:43,825 - aiogram.event - ERROR - Cause exception while process update id=258923438 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:14:55,477 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:14:55,478 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:16:07,792 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:16:07,860 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:16:16,863 - aiogram.event - INFO - Update id=258923439 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:16:16,863 - aiogram.event - ERROR - Cause exception while process update id=258923439 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:16:25,134 - aiogram.event - INFO - Update id=258923440 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:16:25,134 - aiogram.event - ERROR - Cause exception while process update id=258923440 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:23:47,353 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:23:47,354 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:30:08,628 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:30:08,695 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:30:14,023 - aiogram.event - INFO - Update id=258923441 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:30:14,023 - aiogram.event - ERROR - Cause exception while process update id=258923441 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:30:37,103 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:30:37,104 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:31:55,773 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:31:55,842 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:32:01,395 - aiogram.event - INFO - Update id=258923442 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:32:01,395 - aiogram.event - ERROR - Cause exception while process update id=258923442 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:32:24,115 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:32:24,116 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:32:27,083 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:32:27,159 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:32:35,202 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:32:35,202 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:33:47,424 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:33:47,493 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:33:52,835 - aiogram.event - INFO - Update id=258923443 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:33:52,836 - aiogram.event - ERROR - Cause exception while process update id=258923443 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:35:33,887 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:35:33,887 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:35:36,542 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:35:36,611 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:35:40,501 - aiogram.event - INFO - Update id=258923444 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:35:40,501 - aiogram.event - ERROR - Cause exception while process update id=258923444 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:35:45,347 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:35:45,348 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:36:18,590 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 22:36:18,590 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:36:18,659 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:36:51,778 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:36:51,779 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:37:24,319 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:37:24,386 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:37:26,941 - aiogram.event - INFO - Update id=258923445 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:37:26,942 - aiogram.event - ERROR - Cause exception while process update id=258923445 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:37:29,862 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:37:29,862 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:37:41,641 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:37:41,847 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:37:48,241 - aiogram.event - INFO - Update id=258923446 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:37:48,241 - aiogram.event - ERROR - Cause exception while process update id=258923446 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:38:07,407 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:38:07,408 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:38:09,305 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:38:09,515 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:38:12,027 - aiogram.event - INFO - Update id=258923447 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 22:41:41,375 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:41:41,375 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:41:43,264 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:41:43,481 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:41:45,129 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:41:45,130 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:41:53,723 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:41:53,789 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:41:58,808 - aiogram.event - INFO - Update id=258923448 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:41:58,809 - aiogram.event - ERROR - Cause exception while process update id=258923448 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:42:02,549 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:42:02,549 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:42:38,216 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:42:38,286 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:42:39,482 - aiogram.event - INFO - Update id=258923449 is not handled. Duration 16 ms by bot id=7992037979
+2025-07-19 22:42:39,482 - aiogram.event - ERROR - Cause exception while process update id=258923449 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:42:42,231 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:42:42,231 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:44:24,021 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:44:24,090 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:44:25,235 - aiogram.event - INFO - Update id=258923450 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 22:44:25,235 - aiogram.event - ERROR - Cause exception while process update id=258923450 by bot id=7992037979
+TypeError: AdminMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\fsm\middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Pavel\PycharmProjects\sb_project\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+TypeError: AdminMiddleware() takes no arguments
+2025-07-19 22:44:48,659 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:44:48,659 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:44:50,390 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:44:50,600 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:44:57,229 - aiogram.event - INFO - Update id=258923451 is handled. Duration 500 ms by bot id=7992037979
+2025-07-19 22:52:40,252 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:52:40,253 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:55:26,914 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 22:55:26,914 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:55:26,984 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:55:42,849 - aiogram.event - INFO - Update id=258923452 is handled. Duration 343 ms by bot id=7992037979
+2025-07-19 22:55:50,961 - aiogram.event - INFO - Update id=258923453 is handled. Duration 110 ms by bot id=7992037979
+2025-07-19 22:55:57,677 - aiogram.event - INFO - Update id=258923454 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 22:56:20,620 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:56:20,621 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:56:29,113 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 22:56:29,114 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 22:56:29,181 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 22:56:37,076 - aiogram.event - INFO - Update id=258923455 is handled. Duration 422 ms by bot id=7992037979
+2025-07-19 22:56:40,662 - aiogram.event - INFO - Update id=258923456 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 22:56:48,097 - aiogram.event - INFO - Update id=258923457 is handled. Duration 280 ms by bot id=7992037979
+2025-07-19 22:57:06,328 - aiogram.event - INFO - Update id=258923458 is handled. Duration 235 ms by bot id=7992037979
+2025-07-19 22:57:12,406 - aiogram.event - INFO - Update id=258923459 is handled. Duration 188 ms by bot id=7992037979
+2025-07-19 22:57:24,912 - aiogram.event - INFO - Update id=258923460 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 22:57:36,126 - aiogram.event - INFO - Update id=258923461 is handled. Duration 139 ms by bot id=7992037979
+2025-07-19 22:57:57,768 - aiogram.event - INFO - Update id=258923462 is handled. Duration 436 ms by bot id=7992037979
+2025-07-19 22:58:06,409 - aiogram.event - INFO - Update id=258923463 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 22:58:08,244 - aiogram.event - INFO - Update id=258923464 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 22:58:16,716 - aiogram.event - INFO - Update id=258923465 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 22:58:18,474 - aiogram.event - INFO - Update id=258923466 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 22:59:08,791 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 22:59:08,791 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:09:50,802 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:09:50,803 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:09:50,868 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:10:08,792 - aiogram.event - INFO - Update id=258923467 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:10:15,154 - aiogram.event - INFO - Update id=258923468 is handled. Duration 375 ms by bot id=7992037979
+2025-07-19 23:10:18,808 - aiogram.event - INFO - Update id=258923469 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:10:25,751 - aiogram.event - INFO - Update id=258923470 is handled. Duration 156 ms by bot id=7992037979
+2025-07-19 23:10:30,670 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:10:30,670 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:14:46,857 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:14:46,857 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:14:46,924 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:14:51,680 - aiogram.event - INFO - Update id=258923471 is handled. Duration 311 ms by bot id=7992037979
+2025-07-19 23:14:55,772 - aiogram.event - INFO - Update id=258923472 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:15:01,513 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:15:01,514 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:20:51,880 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:20:51,880 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:20:51,954 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:21:00,208 - aiogram.event - INFO - Update id=258923473 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 23:21:04,218 - aiogram.event - INFO - Update id=258923474 is handled. Duration 139 ms by bot id=7992037979
+2025-07-19 23:21:09,150 - aiogram.event - INFO - Update id=258923475 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 23:21:10,657 - aiogram.event - INFO - Update id=258923476 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 23:21:12,344 - aiogram.event - INFO - Update id=258923477 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 23:21:16,773 - aiogram.event - INFO - Update id=258923478 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:21:18,530 - aiogram.event - INFO - Update id=258923479 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:21:58,360 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:21:58,361 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:29:03,775 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:29:03,775 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:29:03,844 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:29:11,346 - aiogram.event - INFO - Update id=258923480 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 23:29:14,603 - aiogram.event - INFO - Update id=258923481 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:29:29,790 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:29:29,790 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:29:31,817 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:29:31,817 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:29:31,883 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:29:34,821 - aiogram.event - INFO - Update id=258923482 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 23:29:36,540 - aiogram.event - INFO - Update id=258923483 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 23:30:48,576 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:30:48,577 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:30:50,390 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:30:50,390 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:30:50,456 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:31:05,554 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:31:05,555 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:31:07,272 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:31:07,272 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:31:07,343 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:31:10,909 - aiogram.event - INFO - Update id=258923484 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 23:31:12,230 - aiogram.event - INFO - Update id=258923485 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:31:42,806 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:31:42,807 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:31:44,547 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:31:44,547 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:31:44,613 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:31:49,519 - aiogram.event - INFO - Update id=258923486 is handled. Duration 311 ms by bot id=7992037979
+2025-07-19 23:31:51,488 - aiogram.event - INFO - Update id=258923487 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:32:01,168 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:32:01,169 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:32:28,808 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:32:28,808 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:32:28,875 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:32:35,729 - aiogram.event - INFO - Update id=258923488 is handled. Duration 421 ms by bot id=7992037979
+2025-07-19 23:32:38,071 - aiogram.event - INFO - Update id=258923489 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 23:33:04,411 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:33:04,412 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:34:26,360 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:34:26,360 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:34:26,429 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:34:45,516 - aiogram.event - INFO - Update id=258923490 is handled. Duration 327 ms by bot id=7992037979
+2025-07-19 23:34:48,853 - aiogram.event - INFO - Update id=258923491 is handled. Duration 108 ms by bot id=7992037979
+2025-07-19 23:34:56,185 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:34:56,186 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:39:28,729 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:39:28,729 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:39:28,795 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:39:34,071 - aiogram.event - INFO - Update id=258923492 is handled. Duration 344 ms by bot id=7992037979
+2025-07-19 23:39:35,712 - aiogram.event - INFO - Update id=258923493 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 23:39:41,326 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:39:41,326 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:39:51,963 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:39:51,964 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:39:52,032 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:40:05,944 - aiogram.event - INFO - Update id=258923494 is handled. Duration 359 ms by bot id=7992037979
+2025-07-19 23:40:08,369 - aiogram.event - INFO - Update id=258923495 is handled. Duration 218 ms by bot id=7992037979
+2025-07-19 23:40:20,099 - aiogram.event - INFO - Update id=258923496 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 23:40:22,823 - aiogram.event - INFO - Update id=258923497 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:40:27,056 - aiogram.event - INFO - Update id=258923498 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:40:31,033 - aiogram.event - INFO - Update id=258923499 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:40:34,053 - aiogram.event - INFO - Update id=258923500 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:40:37,349 - aiogram.event - INFO - Update id=258923501 is handled. Duration 186 ms by bot id=7992037979
+2025-07-19 23:40:39,485 - aiogram.event - INFO - Update id=258923502 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:40:43,290 - aiogram.event - INFO - Update id=258923503 is handled. Duration 78 ms by bot id=7992037979
+2025-07-19 23:40:46,030 - aiogram.event - INFO - Update id=258923504 is handled. Duration 203 ms by bot id=7992037979
+2025-07-19 23:40:48,634 - aiogram.event - INFO - Update id=258923505 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:40:56,207 - aiogram.event - INFO - Update id=258923506 is handled. Duration 3546 ms by bot id=7992037979
+2025-07-19 23:41:43,828 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:41:43,829 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:41:52,094 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:41:52,095 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:41:52,162 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:41:59,285 - aiogram.event - INFO - Update id=258923507 is handled. Duration 390 ms by bot id=7992037979
+2025-07-19 23:42:01,765 - aiogram.event - INFO - Update id=258923508 is handled. Duration 281 ms by bot id=7992037979
+2025-07-19 23:42:24,102 - aiogram.event - INFO - Update id=258923509 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 23:42:25,250 - aiogram.event - INFO - Update id=258923510 is handled. Duration 139 ms by bot id=7992037979
+2025-07-19 23:42:50,299 - aiogram.event - INFO - Update id=258923511 is handled. Duration 359 ms by bot id=7992037979
+2025-07-19 23:42:55,742 - aiogram.event - INFO - Update id=258923512 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:42:57,325 - aiogram.event - INFO - Update id=258923513 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:44:42,393 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:44:42,394 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:44:52,213 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:44:52,214 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:44:52,282 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:44:58,041 - aiogram.event - INFO - Update id=258923514 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 23:45:02,994 - aiogram.event - INFO - Update id=258923515 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:45:32,533 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:45:32,533 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:45:55,445 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:45:55,446 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:45:55,512 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:46:01,478 - aiogram.event - INFO - Update id=258923516 is handled. Duration 311 ms by bot id=7992037979
+2025-07-19 23:46:03,886 - aiogram.event - INFO - Update id=258923517 is handled. Duration 92 ms by bot id=7992037979
+2025-07-19 23:46:13,601 - aiogram.event - INFO - Update id=258923518 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:46:39,403 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:46:39,404 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:46:48,283 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:46:48,284 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:46:48,349 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:46:51,664 - aiogram.event - INFO - Update id=258923519 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 23:46:53,743 - aiogram.event - INFO - Update id=258923520 is handled. Duration 93 ms by bot id=7992037979
+2025-07-19 23:46:57,504 - aiogram.event - INFO - Update id=258923521 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:47:01,530 - aiogram.event - INFO - Update id=258923522 is not handled. Duration 15 ms by bot id=7992037979
+2025-07-19 23:47:02,677 - aiogram.event - INFO - Update id=258923523 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:47:05,522 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:47:05,523 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:47:26,893 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:47:26,894 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:47:26,961 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:47:48,016 - aiogram.event - INFO - Update id=258923524 is handled. Duration 391 ms by bot id=7992037979
+2025-07-19 23:47:50,927 - aiogram.event - INFO - Update id=258923525 is handled. Duration 125 ms by bot id=7992037979
+2025-07-19 23:47:52,704 - aiogram.event - INFO - Update id=258923526 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-19 23:48:09,607 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:48:09,608 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:48:48,551 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:48:48,551 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:48:48,619 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:48:51,910 - aiogram.event - INFO - Update id=258923527 is handled. Duration 328 ms by bot id=7992037979
+2025-07-19 23:48:54,443 - aiogram.event - INFO - Update id=258923528 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:48:55,418 - aiogram.event - INFO - Update id=258923529 is handled. Duration 78 ms by bot id=7992037979
+2025-07-19 23:49:05,332 - aiogram.event - INFO - Update id=258923530 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:49:06,849 - aiogram.event - INFO - Update id=258923531 is handled. Duration 109 ms by bot id=7992037979
+2025-07-19 23:50:50,176 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:50:50,176 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:50:52,134 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:50:52,134 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:50:52,199 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:50:56,599 - aiogram.event - INFO - Update id=258923532 is handled. Duration 469 ms by bot id=7992037979
+2025-07-19 23:51:00,535 - aiogram.event - INFO - Update id=258923533 is handled. Duration 188 ms by bot id=7992037979
+2025-07-19 23:51:02,279 - aiogram.event - INFO - Update id=258923534 is not handled. Duration 32 ms by bot id=7992037979
+2025-07-19 23:51:06,678 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:51:06,678 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:52:48,179 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-19 23:52:48,179 - aiogram.dispatcher - INFO - Start polling
+2025-07-19 23:52:48,245 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-19 23:52:55,692 - aiogram.event - INFO - Update id=258923535 is handled. Duration 453 ms by bot id=7992037979
+2025-07-19 23:52:57,627 - aiogram.event - INFO - Update id=258923536 is handled. Duration 92 ms by bot id=7992037979
+2025-07-19 23:52:59,782 - aiogram.event - INFO - Update id=258923537 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:53:03,619 - aiogram.event - INFO - Update id=258923538 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:53:04,971 - aiogram.event - INFO - Update id=258923539 is handled. Duration 219 ms by bot id=7992037979
+2025-07-19 23:53:06,050 - aiogram.event - INFO - Update id=258923540 is handled. Duration 139 ms by bot id=7992037979
+2025-07-19 23:53:07,440 - aiogram.event - INFO - Update id=258923541 is handled. Duration 171 ms by bot id=7992037979
+2025-07-19 23:53:08,640 - aiogram.event - INFO - Update id=258923542 is handled. Duration 94 ms by bot id=7992037979
+2025-07-19 23:53:11,746 - aiogram.event - INFO - Update id=258923543 is handled. Duration 77 ms by bot id=7992037979
+2025-07-19 23:53:17,863 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-19 23:53:17,864 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 00:14:43,980 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-20 00:14:43,980 - aiogram.dispatcher - INFO - Start polling
+2025-07-20 00:14:44,048 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 00:14:51,476 - aiogram.event - INFO - Update id=258923544 is handled. Duration 500 ms by bot id=7992037979
+2025-07-20 00:14:55,978 - aiogram.event - INFO - Update id=258923545 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-20 00:15:09,836 - aiogram.event - INFO - Update id=258923546 is handled. Duration 406 ms by bot id=7992037979
+2025-07-20 00:15:12,206 - aiogram.event - INFO - Update id=258923547 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-20 00:15:45,276 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-20 00:15:45,277 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 00:16:14,906 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-20 00:16:14,906 - aiogram.dispatcher - INFO - Start polling
+2025-07-20 00:16:14,976 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 00:16:32,770 - aiogram.event - INFO - Update id=258923548 is handled. Duration 547 ms by bot id=7992037979
+2025-07-20 00:16:38,107 - aiogram.event - INFO - Update id=258923549 is handled. Duration 140 ms by bot id=7992037979
+2025-07-20 00:16:45,310 - aiogram.event - INFO - Update id=258923550 is handled. Duration 94 ms by bot id=7992037979
+2025-07-20 00:16:49,687 - aiogram.event - INFO - Update id=258923551 is handled. Duration 140 ms by bot id=7992037979
+2025-07-20 00:16:53,785 - aiogram.event - INFO - Update id=258923552 is handled. Duration 110 ms by bot id=7992037979
+2025-07-20 00:16:58,792 - aiogram.event - INFO - Update id=258923553 is handled. Duration 110 ms by bot id=7992037979
+2025-07-20 00:17:03,810 - aiogram.event - INFO - Update id=258923554 is handled. Duration 109 ms by bot id=7992037979
+2025-07-20 00:17:07,799 - aiogram.event - INFO - Update id=258923555 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 00:17:19,239 - aiogram.event - INFO - Update id=258923556 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 00:17:22,024 - aiogram.event - INFO - Update id=258923557 is handled. Duration 125 ms by bot id=7992037979
+2025-07-20 00:17:27,950 - aiogram.event - INFO - Update id=258923558 is handled. Duration 94 ms by bot id=7992037979
+2025-07-20 00:17:31,232 - aiogram.event - INFO - Update id=258923559 is handled. Duration 110 ms by bot id=7992037979
+2025-07-20 00:17:35,175 - aiogram.event - INFO - Update id=258923560 is handled. Duration 125 ms by bot id=7992037979
+2025-07-20 00:17:37,812 - aiogram.event - INFO - Update id=258923561 is handled. Duration 140 ms by bot id=7992037979
+2025-07-20 00:17:40,875 - aiogram.event - INFO - Update id=258923562 is handled. Duration 108 ms by bot id=7992037979
+2025-07-20 00:17:51,906 - aiogram.event - INFO - Update id=258923563 is handled. Duration 94 ms by bot id=7992037979
+2025-07-20 00:17:57,788 - aiogram.event - INFO - Update id=258923564 is handled. Duration 2140 ms by bot id=7992037979
+2025-07-20 00:18:36,145 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-20 00:18:36,146 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 08:12:46,117 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-20 08:12:46,127 - aiogram.dispatcher - INFO - Start polling
+2025-07-20 08:12:46,197 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-20 08:12:46,273 - aiogram.event - INFO - Update id=258923565 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-20 08:12:46,273 - aiogram.event - INFO - Update id=258923566 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-20 08:12:46,273 - aiogram.event - INFO - Update id=258923567 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-20 08:15:00,167 - aiogram.event - INFO - Update id=258923568 is handled. Duration 296 ms by bot id=7992037979
+2025-07-20 08:15:14,004 - aiogram.event - INFO - Update id=258923569 is handled. Duration 92 ms by bot id=7992037979
+2025-07-20 08:15:22,970 - aiogram.event - INFO - Update id=258923570 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:15:26,597 - aiogram.event - INFO - Update id=258923571 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:15:30,172 - aiogram.event - INFO - Update id=258923572 is handled. Duration 125 ms by bot id=7992037979
+2025-07-20 08:15:31,898 - aiogram.event - INFO - Update id=258923573 is handled. Duration 78 ms by bot id=7992037979
+2025-07-20 08:15:34,568 - aiogram.event - INFO - Update id=258923574 is handled. Duration 78 ms by bot id=7992037979
+2025-07-20 08:15:37,349 - aiogram.event - INFO - Update id=258923575 is handled. Duration 77 ms by bot id=7992037979
+2025-07-20 08:15:38,441 - aiogram.event - INFO - Update id=258923576 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:15:40,994 - aiogram.event - INFO - Update id=258923577 is handled. Duration 78 ms by bot id=7992037979
+2025-07-20 08:15:43,429 - aiogram.event - INFO - Update id=258923578 is handled. Duration 78 ms by bot id=7992037979
+2025-07-20 08:15:44,754 - aiogram.event - INFO - Update id=258923579 is handled. Duration 108 ms by bot id=7992037979
+2025-07-20 08:15:46,850 - aiogram.event - INFO - Update id=258923580 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:15:48,742 - aiogram.event - INFO - Update id=258923581 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:15:52,216 - aiogram.event - INFO - Update id=258923582 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:16:10,842 - aiogram.event - INFO - Update id=258923583 is handled. Duration 233 ms by bot id=7992037979
+2025-07-20 08:16:13,631 - aiogram.event - INFO - Update id=258923584 is handled. Duration 77 ms by bot id=7992037979
+2025-07-20 08:16:18,953 - aiogram.event - INFO - Update id=258923585 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:16:44,651 - aiogram.event - INFO - Update id=258923586 is handled. Duration 218 ms by bot id=7992037979
+2025-07-20 08:16:46,624 - aiogram.event - INFO - Update id=258923587 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:16:52,847 - aiogram.event - INFO - Update id=258923588 is handled. Duration 108 ms by bot id=7992037979
+2025-07-20 08:16:54,313 - aiogram.event - INFO - Update id=258923589 is handled. Duration 156 ms by bot id=7992037979
+2025-07-20 08:16:56,516 - aiogram.event - INFO - Update id=258923590 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:17:06,518 - aiogram.event - INFO - Update id=258923591 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:17:09,984 - aiogram.event - INFO - Update id=258923592 is handled. Duration 110 ms by bot id=7992037979
+2025-07-20 08:17:18,308 - aiogram.event - INFO - Update id=258923593 is handled. Duration 78 ms by bot id=7992037979
+2025-07-20 08:17:29,480 - aiogram.event - INFO - Update id=258923594 is handled. Duration 93 ms by bot id=7992037979
+2025-07-20 08:17:34,044 - aiogram.event - INFO - Update id=258923595 is handled. Duration 2531 ms by bot id=7992037979
+2025-07-20 08:19:47,421 - aiogram.event - INFO - Update id=258923596 is handled. Duration 234 ms by bot id=7992037979
+2025-07-20 08:29:37,392 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-20 08:29:37,392 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-21 15:21:48,731 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-21 15:21:48,732 - aiogram.dispatcher - INFO - Start polling
+2025-07-21 15:21:48,804 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-21 15:24:03,708 - aiogram.event - INFO - Update id=258923597 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-21 15:24:14,933 - aiogram.event - INFO - Update id=258923598 is handled. Duration 312 ms by bot id=7992037979
+2025-07-21 15:25:16,858 - aiogram.event - INFO - Update id=258923599 is not handled. Duration 0 ms by bot id=7992037979
+2025-07-21 15:28:53,857 - aiogram.event - INFO - Update id=258923600 is handled. Duration 640 ms by bot id=7992037979
+2025-07-21 15:29:13,974 - aiogram.event - INFO - Update id=258923601 is handled. Duration 264 ms by bot id=7992037979
+2025-07-21 15:29:21,204 - aiogram.event - INFO - Update id=258923602 is handled. Duration 94 ms by bot id=7992037979
+2025-07-21 15:29:28,643 - aiogram.event - INFO - Update id=258923603 is handled. Duration 94 ms by bot id=7992037979
+2025-07-21 15:29:39,903 - aiogram.event - INFO - Update id=258923604 is handled. Duration 235 ms by bot id=7992037979
+2025-07-21 15:29:58,961 - aiogram.event - INFO - Update id=258923605 is handled. Duration 250 ms by bot id=7992037979
+2025-07-21 15:30:01,932 - aiogram.event - INFO - Update id=258923606 is handled. Duration 109 ms by bot id=7992037979
+2025-07-21 15:30:11,994 - aiogram.event - INFO - Update id=258923607 is handled. Duration 93 ms by bot id=7992037979
+2025-07-21 15:30:16,533 - aiogram.event - INFO - Update id=258923608 is handled. Duration 125 ms by bot id=7992037979
+2025-07-21 15:30:22,989 - aiogram.event - INFO - Update id=258923609 is handled. Duration 3343 ms by bot id=7992037979
+2025-07-21 15:35:53,169 - aiogram.event - INFO - Update id=258923610 is handled. Duration 359 ms by bot id=7992037979
+2025-07-21 15:36:24,445 - aiogram.event - INFO - Update id=258923611 is handled. Duration 296 ms by bot id=7992037979
+2025-07-21 15:36:38,420 - aiogram.event - INFO - Update id=258923612 is handled. Duration 280 ms by bot id=7992037979
+2025-07-21 15:36:51,139 - aiogram.event - INFO - Update id=258923613 is handled. Duration 156 ms by bot id=7992037979
+2025-07-21 15:36:58,008 - aiogram.event - INFO - Update id=258923614 is handled. Duration 202 ms by bot id=7992037979
+2025-07-21 15:37:18,259 - aiogram.event - INFO - Update id=258923615 is handled. Duration 233 ms by bot id=7992037979
+2025-07-21 15:37:23,061 - aiogram.event - INFO - Update id=258923616 is handled. Duration 94 ms by bot id=7992037979
+2025-07-21 15:37:27,757 - aiogram.event - INFO - Update id=258923617 is handled. Duration 170 ms by bot id=7992037979
+2025-07-21 15:37:49,529 - aiogram.event - INFO - Update id=258923618 is handled. Duration 265 ms by bot id=7992037979
+2025-07-21 15:37:51,602 - aiogram.event - INFO - Update id=258923619 is handled. Duration 94 ms by bot id=7992037979
+2025-07-21 15:38:58,473 - aiogram.event - INFO - Update id=258923620 is handled. Duration 250 ms by bot id=7992037979
+2025-07-21 15:39:32,569 - aiogram.event - INFO - Update id=258923621 is handled. Duration 344 ms by bot id=7992037979
+2025-07-21 15:39:35,387 - aiogram.event - INFO - Update id=258923622 is handled. Duration 109 ms by bot id=7992037979
+2025-07-21 15:39:43,312 - aiogram.event - INFO - Update id=258923623 is handled. Duration 3344 ms by bot id=7992037979
+2025-07-21 15:39:53,335 - aiogram.event - INFO - Update id=258923624 is handled. Duration 94 ms by bot id=7992037979
+2025-07-21 15:40:00,025 - aiogram.event - INFO - Update id=258923625 is handled. Duration 125 ms by bot id=7992037979
+2025-07-21 15:40:06,077 - aiogram.event - INFO - Update id=258923626 is handled. Duration 125 ms by bot id=7992037979
+2025-07-21 15:40:23,012 - aiogram.event - INFO - Update id=258923627 is not handled. Duration 16 ms by bot id=7992037979
+2025-07-21 15:40:28,617 - aiogram.event - INFO - Update id=258923628 is handled. Duration 235 ms by bot id=7992037979
+2025-07-21 15:40:34,058 - aiogram.event - INFO - Update id=258923629 is handled. Duration 3139 ms by bot id=7992037979
+2025-07-21 16:15:58,190 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-21 16:15:58,191 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-22 14:01:27,029 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-07-22 14:01:27,030 - aiogram.dispatcher - INFO - Start polling
+2025-07-22 14:01:27,096 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-07-22 14:01:27,522 - aiogram.event - INFO - Update id=258923630 is handled. Duration 359 ms by bot id=7992037979
+2025-07-22 14:20:30,951 - aiogram.event - INFO - Update id=258923631 is handled. Duration 343 ms by bot id=7992037979
+2025-07-22 14:23:34,428 - aiogram.event - INFO - Update id=258923632 is handled. Duration 218 ms by bot id=7992037979
+2025-07-22 14:23:38,094 - aiogram.event - INFO - Update id=258923633 is handled. Duration 93 ms by bot id=7992037979
+2025-07-22 14:23:42,757 - aiogram.event - INFO - Update id=258923634 is handled. Duration 93 ms by bot id=7992037979
+2025-07-22 14:23:59,513 - aiogram.event - INFO - Update id=258923635 is handled. Duration 234 ms by bot id=7992037979
+2025-07-22 14:24:09,853 - aiogram.event - INFO - Update id=258923636 is handled. Duration 108 ms by bot id=7992037979
+2025-07-22 14:24:14,782 - aiogram.event - INFO - Update id=258923637 is handled. Duration 93 ms by bot id=7992037979
+2025-07-22 14:27:09,425 - aiogram.event - INFO - Update id=258923638 is handled. Duration 234 ms by bot id=7992037979
+2025-07-22 14:27:11,792 - aiogram.event - INFO - Update id=258923639 is handled. Duration 218 ms by bot id=7992037979
+2025-07-22 14:27:15,641 - aiogram.event - INFO - Update id=258923640 is handled. Duration 140 ms by bot id=7992037979
+2025-07-22 14:27:18,129 - aiogram.event - INFO - Update id=258923641 is handled. Duration 125 ms by bot id=7992037979
+2025-07-22 14:27:23,679 - aiogram.event - INFO - Update id=258923642 is handled. Duration 3250 ms by bot id=7992037979
+2025-07-22 14:36:39,803 - aiogram.event - INFO - Update id=258923643 is handled. Duration 281 ms by bot id=7992037979
+2025-07-22 14:58:55,542 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-22 14:58:55,542 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-08-08 12:56:35,739 - __main__ - INFO - Бот @sb_proj_feedback_bot запущен
+2025-08-08 12:56:35,740 - aiogram.dispatcher - INFO - Start polling
+2025-08-08 12:56:35,806 - aiogram.dispatcher - INFO - Run polling for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-08-08 12:56:35,877 - aiogram.event - INFO - Update id=258923645 is not handled. Duration 0 ms by bot id=7992037979
+2025-08-08 12:56:36,953 - aiogram.event - INFO - Update id=258923644 is handled. Duration 1078 ms by bot id=7992037979
+2025-08-08 12:57:09,927 - aiogram.event - INFO - Update id=258923646 is handled. Duration 1092 ms by bot id=7992037979
+2025-08-08 12:57:16,369 - aiogram.event - INFO - Update id=258923647 is handled. Duration 77 ms by bot id=7992037979
+2025-08-08 12:57:21,267 - aiogram.event - INFO - Update id=258923648 is handled. Duration 671 ms by bot id=7992037979
+2025-08-08 12:57:25,193 - aiogram.event - INFO - Update id=258923649 is handled. Duration 94 ms by bot id=7992037979
+2025-08-08 12:57:33,100 - aiogram.event - INFO - Update id=258923650 is handled. Duration 811 ms by bot id=7992037979
+2025-08-08 12:57:38,763 - aiogram.event - INFO - Update id=258923651 is handled. Duration 108 ms by bot id=7992037979
+2025-08-08 12:57:51,029 - aiogram.event - INFO - Update id=258923652 is handled. Duration 10407 ms by bot id=7992037979
+2025-08-08 12:58:49,367 - aiogram.dispatcher - INFO - Polling stopped for bot @sb_proj_feedback_bot id=7992037979 - 'sb_project_feedback'
+2025-08-08 12:58:49,367 - aiogram.dispatcher - INFO - Polling stopped
